@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """User Module
 """
 from sqlalchemy.ext.declarative import declarative_base
